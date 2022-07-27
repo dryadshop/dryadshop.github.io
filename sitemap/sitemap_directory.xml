@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+>
+  <url>
+    <loc>https://dryadshop.com</loc>
+    <lastmod>2022-07-27T22:48:42.980Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dryadshop.com/baby</loc>
+    <lastmod>2022-07-27T22:48:42.980Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dryadshop.com/bag</loc>
+    <lastmod>2022-07-27T22:48:42.980Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dryadshop.com/boys</loc>
+    <lastmod>2022-07-27T22:48:42.980Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dryadshop.com/girls</loc>
+    <lastmod>2022-07-27T22:48:42.980Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dryadshop.com/man</loc>
+    <lastmod>2022-07-27T22:48:42.980Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dryadshop.com/sports</loc>
+    <lastmod>2022-07-27T22:48:42.980Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dryadshop.com/woman</loc>
+    <lastmod>2022-07-27T22:48:42.980Z</lastmod>
+  </url>
+</urlset>
