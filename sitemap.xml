@@ -2,34 +2,38 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
     <loc>https://dryadshop.com/sitemap/sitemap_baby.xml.gz</loc>
-    <lastmod>2022-07-27T22:48:42.992Z</lastmod>
+    <lastmod>2022-07-28T12:58:10.198Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://dryadshop.com/sitemap/sitemap_bag.xml.gz</loc>
-    <lastmod>2022-07-27T22:48:42.992Z</lastmod>
+    <lastmod>2022-07-28T12:58:10.198Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://dryadshop.com/sitemap/sitemap_boys.xml.gz</loc>
-    <lastmod>2022-07-27T22:48:42.992Z</lastmod>
+    <lastmod>2022-07-28T12:58:10.198Z</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://dryadshop.com/sitemap/sitemap_common.xml.gz</loc>
+    <lastmod>2022-07-28T12:58:10.198Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://dryadshop.com/sitemap/sitemap_directory.xml.gz</loc>
-    <lastmod>2022-07-27T22:48:42.992Z</lastmod>
+    <lastmod>2022-07-28T12:58:10.198Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://dryadshop.com/sitemap/sitemap_girls.xml.gz</loc>
-    <lastmod>2022-07-27T22:48:42.992Z</lastmod>
+    <lastmod>2022-07-28T12:58:10.198Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://dryadshop.com/sitemap/sitemap_man.xml.gz</loc>
-    <lastmod>2022-07-27T22:48:42.992Z</lastmod>
+    <lastmod>2022-07-28T12:58:10.198Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://dryadshop.com/sitemap/sitemap_sports.xml.gz</loc>
-    <lastmod>2022-07-27T22:48:42.992Z</lastmod>
+    <lastmod>2022-07-28T12:58:10.198Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://dryadshop.com/sitemap/sitemap_woman.xml.gz</loc>
-    <lastmod>2022-07-27T22:48:42.992Z</lastmod>
+    <lastmod>2022-07-28T12:58:10.198Z</lastmod>
   </sitemap>
 </sitemapindex>
