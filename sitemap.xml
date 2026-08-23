@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dryadshop.com</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
   </url>
   <url>
     <loc>https://dryadshop.com/about</loc>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://dryadshop.com/home-living</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
   </url>
   <url>
     <loc>https://dryadshop.com/mac</loc>
@@ -501,6 +501,22 @@
     <lastmod>2026-08-22</lastmod>
   </url>
   <url>
+    <loc>https://dryadshop.com/home-living/mechanical-keyboard-aula-f108pro</loc>
+    <lastmod>2026-08-23</lastmod>
+  </url>
+  <url>
+    <loc>https://dryadshop.com/home-living/mechanical-keyboard-aula-f87pro</loc>
+    <lastmod>2026-08-23</lastmod>
+  </url>
+  <url>
+    <loc>https://dryadshop.com/home-living/mechanical-keyboard-qsenn-q75-pbt</loc>
+    <lastmod>2026-08-23</lastmod>
+  </url>
+  <url>
+    <loc>https://dryadshop.com/home-living/mechanical-keyboard-mchose-ace68-v2</loc>
+    <lastmod>2026-08-23</lastmod>
+  </url>
+  <url>
     <loc>https://dryadshop.com/home-living/storage-organization</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
@@ -599,5 +615,9 @@
   <url>
     <loc>https://dryadshop.com/home-living/toaster-buying-guide</loc>
     <lastmod>2026-08-22</lastmod>
+  </url>
+  <url>
+    <loc>https://dryadshop.com/home-living/mechanical-keyboard-buying-guide</loc>
+    <lastmod>2026-08-23</lastmod>
   </url>
 </urlset>
