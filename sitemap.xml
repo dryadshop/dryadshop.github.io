@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dryadshop.com</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-14</lastmod>
   </url>
   <url>
     <loc>https://dryadshop.com/about</loc>
@@ -10,7 +10,11 @@
   </url>
   <url>
     <loc>https://dryadshop.com/travel</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-14</lastmod>
+  </url>
+  <url>
+    <loc>https://dryadshop.com/travel/page/2</loc>
+    <lastmod>2026-09-14</lastmod>
   </url>
   <url>
     <loc>https://dryadshop.com/home-living</loc>
@@ -2245,6 +2249,22 @@
     <lastmod>2026-09-13</lastmod>
   </url>
   <url>
+    <loc>https://dryadshop.com/travel/coupang-296657281-935194631</loc>
+    <lastmod>2026-09-14</lastmod>
+  </url>
+  <url>
+    <loc>https://dryadshop.com/travel/coupang-7395742059-19130906611</loc>
+    <lastmod>2026-09-14</lastmod>
+  </url>
+  <url>
+    <loc>https://dryadshop.com/travel/coupang-8707588285-25287761068</loc>
+    <lastmod>2026-09-14</lastmod>
+  </url>
+  <url>
+    <loc>https://dryadshop.com/travel/coupang-6679208443-15396022417</loc>
+    <lastmod>2026-09-14</lastmod>
+  </url>
+  <url>
     <loc>https://dryadshop.com/home-living/usb-microphone-desk-setup-buying-guide</loc>
     <lastmod>2026-09-05</lastmod>
   </url>
@@ -2763,5 +2783,9 @@
   <url>
     <loc>https://dryadshop.com/home-living/led-table-mirror-fold-charging-buying-guide</loc>
     <lastmod>2026-09-13</lastmod>
+  </url>
+  <url>
+    <loc>https://dryadshop.com/travel/trekking-pole-fold-length-buying-guide</loc>
+    <lastmod>2026-09-14</lastmod>
   </url>
 </urlset>
